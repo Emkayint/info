@@ -40,3 +40,27 @@ header button{
     margin-left: 20px;
 }
 
+.top-song{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    
+}
+.top-song img{
+    height: 300px;
+    filter: opacity(.4);
+}
+.top-song span{
+    color: rgb(0, 217, 255);
+}
+.top-song button{
+    border: none;
+    background: blue;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 10px;
+}
+.my-text{
+    align-items: center;
+}
