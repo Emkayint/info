@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.home{
+    background: #000033;
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    background: #16167e;
+    color: wheat;
+    padding-left: 30px;
+}
+header input{
+    height: 30px;
+    align-self: center;
+}
+
+header p{
+    display: inline;
+    padding: 15px;
+}
+.login{
+    display: inline;
+}
+
+.login p{
+    display: inline;
+}
+
+header button{
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    margin-left: 20px;
+}
+
