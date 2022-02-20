@@ -64,3 +64,14 @@ header button{
 .my-text{
     align-items: center;
 }
+.card{
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+.card img{
+    height: 200px;
+    width: 200px;
+}
